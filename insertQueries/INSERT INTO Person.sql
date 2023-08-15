@@ -1,0 +1,22 @@
+INSERT INTO Person (user_id, email, name, sex, birthday, hometown, phone_number, company_id, is_contact_person, is_admin) 
+VALUES
+(1,'andy@gmail.com','Andy','F','20010101','Singapore','92290001',1,1,0),
+(2,'brent@gmail.com','Brent','M','20020202','China','92290002',2,1,0),
+(3,'charlie@gmail.com','Charlie','M','20030303','Singapore','92290003',3,1,0),
+(4,'dylan@gmail.com','Dylan','F','20040404','Malaysia','92290004',4,1,0),
+(5,'elon@gmail.com','Elon','F','20050505','Vietnam','92290005',5,1,0),
+(6,'frank@gmail.com','Frank','M','20060606','Singapore','92290006',6,1,0),
+(7,'greg@gmail.com','Greg','M','20070707','Singapore','92290007',7,1,0),
+(8,'harold@gmail.com','Harold','F','20080808','Thailand','92290008',8,1,0),
+(9,'irwin@gmail.com','Irwin','M','20090909','Korea','92290009',9,1,0),
+(10,'justin@gmail.com','Justin','F','20101010','Singapore','92290010',10,1,0),
+(11,'kayn@gmail.com','Kayn','M','20010111','Singapore','92290011',1,0,1),
+(12,'lillia@gmail.com','Lillia','F','20020212','China','92290012',2,0,0),
+(13,'mordekaiser@gmail.com','Mordekaiser','M','20030313','Singapore','92290013',3,0,0),
+(14,'nami@gmail.com','Nami','F','20040414','Malaysia','92290014',4,0,0),
+(15,'orianna@gmail.com','Orianna','F','20050515','Vietnam','92290015',5,0,0),
+(16,'poppy@gmail.com','Poppy','F','20060616','Singapore','92290016',6,0,0),
+(17,'quinn@gmail.com','Quinn','F','20070717','Singapore','92290017',7,0,0),
+(18,'reksai@gmail.com','Reksai','F','20080818','Thailand','92290018',8,0,0),
+(19,'senna@gmail.com','Senna','F','20090919','Korea','92290019',9,0,0),
+(20,'teemo@gmail.com','Teemo','M','20101020','Singapore','92290020',10,0,0)
